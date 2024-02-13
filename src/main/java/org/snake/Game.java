@@ -8,6 +8,10 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.Random;
 
+// TODO make game smoother
+// TODO make a main menu 
+//TODO a refactoring is needed
+
 class Game extends JPanel implements KeyListener {
 
     private static final int WIDTH = 500;
